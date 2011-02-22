@@ -1,5 +1,5 @@
-code.model.Things contains the example heterogenous data.  Each Thing has an Other.  Other has 2 concrete types: Other1 and Other2.
+code.model.Things contains the example heterogeneous data.  Each Thing has an Other.  Other has 2 concrete types: Other1 and Other2.
 
 index.html has the template for rendering each type of Other.
 
-code.snippet.Things attempts to render the heterogenous things as simply as possile.
+code.snippet.Things attempts to render the heterogeneous things as simply as possile.
